@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi, I'm Cynthia Ho 
 
-<!--
-**hochingyen/hochingyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;3+Years+of+Product+Management+Experience;Data+Analytics+Enthusiast;Full-Stack+Development+Learner&center=true&width=500&height=50&color=40E0D0" 
+    alt="Typing SVG" 
+  />
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hochingyen&color=brightgreen" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+🎓 Master of Information Systems Management Student @Carnegie Mellon University (Class of 2025)
+
+📖 Currently learning cloud infrastructure, database management, and full-stack software development
+
+⚡ Specializing in data analytics and with business acumen of product 🧡
+
+## Tech Stack & Tools
+
+### Programming Languages
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+</p>
+
+### Web Development
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+### Data & Databases
+<p>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Oracle SQL" src="https://img.shields.io/badge/-Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+</p>
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/chingyenho/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</p>
+
+## Fun Fact
+
+When I’m not coding, you’ll probably find me playing badminton 🏸 or swimming 🏊 
+
+I’m passionate about gathering useful information across all kinds of areas.  
+
+These days, I can almost always find free lunch on campus — and I even once helped a classmate live on just $200 for an entire month 😂
+
+---
+
+<div align="center">
+  <p>Thanks for visiting my profile! Have a great day! 🫶🏻</p>
+</div>
+
+⭐️ From [hochingyen](https://github.com/hochingyen)
