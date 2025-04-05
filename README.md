@@ -21,7 +21,7 @@
 
 ## Professional Summary
 
-Product Manager with 2+ years of experience leading scalable data solutions across investment operations and cloud-based analytics. Adept at building ETL pipelines, automating BI workflows, and transforming user needs into data products.
+Product Manager with 3 years of experience leading scalable data solutions across investment operations and cloud-based analytics. Adept at building ETL pipelines, automating BI workflows, and transforming user needs into data products.
 
 ## Tech Stack & Tools
 
