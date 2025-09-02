@@ -64,6 +64,15 @@ Product Manager with 3 years of experience leading scalable data solutions acros
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </p>
 
+## Try My Product: PM Career Intelligence Analyzer
+**✨ Get Personalized PM Career Intelligence:**
+- Real-time market insights tailored to your experience
+- Personalized skill gap analysis for PM transitions
+- Data-driven career pathway recommendations
+
+**🔗 Try it now:** https://n8n.cynthiaho.me/form/7c2bfcc6-e799-4db4-9db9-c44b5bc26d9b
+
+
 ## Fun Fact
 
 When I’m not coding, you’ll probably find me playing badminton 🏸 or swimming 🏊 
